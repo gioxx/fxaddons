@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "IBS-IT",
+  "description": "Cerca tutto quello che ti serve sul nuovo IBS.it",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0"
+    }
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "IBS-IT",
+      "search_url": "https://www.ibs.it/search/?ts=gs&amp;query={searchTerms}",
+      "keyword": "ibsit",
+      "favicon_url": "https://www.ibs.it/favicon.ico",
+      "is_default": false,
+      "encoding": "UTF-8"
+    }
+  }
+
+}

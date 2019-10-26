@@ -1,0 +1,2 @@
+# fxaddons
+ Firefox Addons (WebExtensions)

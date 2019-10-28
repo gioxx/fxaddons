@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Wikipedia-IT",
+  "description": "Cerca quello che ti serve su Wikipedia (IT)",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0"
+    }
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "Wikipedia-IT",
+      "search_url": "https://it.wikipedia.org/w/index.php?title=Special:Search&search={searchTerms}",
+      "keyword": "wit",
+      "favicon_url": "https://it.wikipedia.org/static/favicon/wikipedia.ico",
+      "is_default": false,
+      "encoding": "UTF-8"
+    }
+  }
+
+}

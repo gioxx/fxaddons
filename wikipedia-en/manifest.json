@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Wikipedia-EN",
+  "description": "Cerca quello che ti serve su Wikipedia (EN)",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0"
+    }
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "Wikipedia-EN",
+      "search_url": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={searchTerms}",
+      "keyword": "wen",
+      "favicon_url": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+      "is_default": false,
+      "encoding": "UTF-8"
+    }
+  }
+
+}

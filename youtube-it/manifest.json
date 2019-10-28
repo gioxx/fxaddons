@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "YouTube-IT",
+  "description": "Cerca il video che ti serve su YouTube (IT)",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0"
+    }
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "YouTube-IT",
+      "search_url": "https://www.youtube.com/results?search_type=search_videos&search_query={searchTerms}&search_sort=relevance&search_category=0&page=",
+      "keyword": "ytube",
+      "favicon_url": "https://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico",
+      "is_default": false,
+      "encoding": "UTF-8"
+    }
+  }
+
+}

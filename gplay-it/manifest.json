@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "GooglePlay-IT",
+  "description": "Cerca quello che ti serve sullo store di Google Play (IT)",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0"
+    }
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "GooglePlay-IT",
+      "search_url": "https://play.google.com/store/search?q={searchTerms}&c=apps&start=0&num=48&hl=it",
+      "keyword": "gplay",
+      "favicon_url": "https://www.gstatic.com/android/market_images/web/favicon_v2.ico",
+      "is_default": false,
+      "encoding": "UTF-8"
+    }
+  }
+
+}

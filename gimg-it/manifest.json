@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "GoogleImages-IT",
+  "description": "Cerca quello che ti serve su Google Immagini (IT)",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0"
+    }
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "GoogleImages-IT",
+      "search_url": "https://google.com/search?tbm=isch&q={searchTerms}",
+      "keyword": "gimg",
+      "favicon_url": "https://hub.gfsolone.com/favicon/gimg-16.ico",
+      "is_default": false,
+      "encoding": "UTF-8"
+    }
+  }
+
+}

@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Amazon-IT",
+  "description": "Cerca quello che ti serve tra i prodotti di Amazon Italia.",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0"
+    }
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "Amazon-IT",
+      "search_url": "https://www.amazon.it/exec/obidos/external-search[RETURN]&field-keywords={searchTerms}&tag=gioxx-21&sourceid=Mozilla-search",
+      "keyword": "amzn",
+      "favicon_url": "https://www.amazon.it/favicon.ico",
+      "is_default": false,
+      "encoding": "UTF-8"
+    }
+  }
+
+}

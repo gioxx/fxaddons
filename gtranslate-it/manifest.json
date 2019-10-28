@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "GoogleTranslate-IT",
+  "description": "Traduci ciò che desideri semplicemente lanciando una ricerca su Firefox!",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0"
+    }
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "GoogleTranslate-IT",
+      "search_url": "https://translate.google.com/?q={searchTerms}",
+      "keyword": "gtranslate",
+      "favicon_url": "https://translate.google.it/favicon.ico",
+      "is_default": false,
+      "encoding": "UTF-8"
+    }
+  }
+
+}

@@ -3,7 +3,7 @@
 
 ![https://gioxx.org/wp-content/uploads/2019/11/da-opensearch-a-webextensions-evoluzione-dei-miei-plugin-di-ricerca-2.png](https://gioxx.org/wp-content/uploads/2019/11/da-opensearch-a-webextensions-evoluzione-dei-miei-plugin-di-ricerca-2.png)
 
-La novità è stata annunciata da Mozilla sul suo blog all'indirizzo https://blog.mozilla.org/addons/2019/10/15/search-engine-add-ons-to-be-removed-from-addons-mozilla-org/. La lista dei nuovi componenti aggiuntivi è disponibile sul blog e su AMO, rispettivamente all'indirizzo [**go.gioxx.org/fxaddons**](https://gioxx.org/fxaddons) (consigliato per poter dare un'occhiata veloce anche ai termini di ricerca da utilizzare) e [go.gioxx.org/strumenti-di-ricerca-addons](https://go.gioxx.org/strumenti-di-ricerca-addons).
+La novità è stata annunciata da Mozilla sul suo blog all'indirizzo https://blog.mozilla.org/addons/2019/10/15/search-engine-add-ons-to-be-removed-from-addons-mozilla-org/. La lista dei nuovi componenti aggiuntivi è disponibile sul blog e su AMO, rispettivamente all'indirizzo [**gioxx.org/fxaddons**](https://gioxx.org/fxaddons) (consigliato per poter dare un'occhiata veloce anche ai termini di ricerca da utilizzare) e [go.gioxx.org/strumenti-di-ricerca-addons](https://go.gioxx.org/strumenti-di-ricerca-addons).
 
 ------
 

@@ -1,4 +1,4 @@
-# Firefox Addons ([go.gioxx.org/fxaddons](https://gioxx.org/fxaddons))
+# Firefox Addons ([gioxx.org/fxaddons](https://gioxx.org/fxaddons))
  A partire da lunedì 11 novembre 2019 termina ufficialmente il supporto per i miei strumenti di ricerca per Firefox con tecnologia OpenSearch ([go.gioxx.org/strumenti-di-ricerca​](https://go.gioxx.org/strumenti-di-ricerca​)), per scelta di Mozilla si passa alla tecnologia WebExtension anche per i motori di ricerca aggiuntivi per Mozilla Firefox, io mi sono adeguato e ho trasformato il mio lavoro in componenti aggiuntivi già disponibili su AMO e qui su GitHub per poter essere visti, modificati e rielaborati da chiunque voglia (rispettando la licenza).
 
 ![https://gioxx.org/wp-content/uploads/2019/11/da-opensearch-a-webextensions-evoluzione-dei-miei-plugin-di-ricerca-2.png](https://gioxx.org/wp-content/uploads/2019/11/da-opensearch-a-webextensions-evoluzione-dei-miei-plugin-di-ricerca-2.png)

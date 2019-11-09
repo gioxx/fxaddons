@@ -5,6 +5,3 @@
 - Disponibile su: https://addons.mozilla.org/it/firefox/addon/gioxxorg-googleimages-it/
 - Termine di ricerca: **gimg**
 - Note: -
-
-![](https://raw.githubusercontent.com/gioxx/fxaddons/master/gimg-it/scr_1.png)
-

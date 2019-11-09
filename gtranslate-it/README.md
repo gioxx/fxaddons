@@ -5,5 +5,3 @@
 - Disponibile su: https://addons.mozilla.org/it/firefox/addon/gioxxorg-googletranslate-it/
 - Termine di ricerca: **gtranslate**
 - Note: -
-
-![](https://raw.githubusercontent.com/gioxx/fxaddons/master/gtranslate-it/scr_1.png)

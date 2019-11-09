@@ -5,5 +5,3 @@
 - Disponibile su: https://addons.mozilla.org/it/firefox/addon/gioxxorg-googleplay-it/
 - Termine di ricerca: **gplay**
 - Note: -
-
-![](https://raw.githubusercontent.com/gioxx/fxaddons/master/gplay-it/scr_1.png)

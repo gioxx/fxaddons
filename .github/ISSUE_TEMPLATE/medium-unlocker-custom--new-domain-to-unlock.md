@@ -8,8 +8,10 @@ assignees: gioxx
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-Please enter the original locked Medium domain or an article URL.
+[ENG/ITA]
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**New domain to unlock** / **Nuovo dominio da sbloccare**
+Please enter the original locked Medium domain or an article URL / Inserisci l'URL di Medium da sbloccare o segnala l'indirizzo di un articolo che stai provando a leggere.
+
+**Additional context** / **Varie & Eventuali**
+Add any other context or screenshots about the feature request here / Inserisci qualsiasi altro tipo di informazione tu voglia segnalarmi in merto a questa richiesta (screenshot eventuali compresi).

@@ -890,7 +890,7 @@
         return r.default.amplitude.api_key;
         return "test_api_key"
     }, n.init = function() {
-        chrome.runtime.setUninstallURL("https://manojvivek.typeform.com/to/c0VaBs"), chrome.runtime.onInstalled.addListener(function() {
+        chrome.runtime.onInstalled.addListener(function() {
             (0, i.getUserId)() || ((0, i.setUserId)((new Date).getTime().toString()), (0, o.track)("INSTALLED"))
         })
     }, n.urlWithoutQueryParams = function(t) {

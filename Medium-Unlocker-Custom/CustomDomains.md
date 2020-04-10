@@ -21,5 +21,6 @@
 "https://blog.usejournal.com/*",
 "https://blog.angularindepth.com/*",
 "https://instagram-engineering.com/*",
-"https://calia.me/*"
+"https://calia.me/*",
+"https://thecreative.cafe/*"
 ```

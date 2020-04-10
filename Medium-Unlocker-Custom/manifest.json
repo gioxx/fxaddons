@@ -2,7 +2,7 @@
   "name": "Medium Unlocker Custom",
   "description": "Unlocks medium.com for unlimited reads, no membership required (Custom version of Medium Unlimited by Manoj Vivek with some other domains added).",
   "short_name": "Medium Unlocker",
-  "version": "1.4.13",
+  "version": "1.4.14",
   "manifest_version": 2,
   "background": {
     "scripts": ["background.bundle.js"]
@@ -34,7 +34,8 @@
         "https://blog.usejournal.com/*",
         "https://blog.angularindepth.com/*",
         "https://instagram-engineering.com/*",
-        "https://calia.me/*"
+        "https://calia.me/*",
+        "https://thecreative.cafe/*"
       ],
       "js": ["main.bundle.js"]
     }
@@ -68,7 +69,8 @@
     "https://blog.usejournal.com/*",
     "https://blog.angularindepth.com/*",
     "https://instagram-engineering.com/*",
-    "https://calia.me/*"
+    "https://calia.me/*",
+    "https://thecreative.cafe/*"
   ],
   "web_accessible_resources": ["static/*"]
 }

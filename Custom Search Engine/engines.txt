@@ -1,0 +1,55 @@
+{
+  "file_version": "2.0",
+  "preferences": {
+    "custom_engines": {
+      "app": {
+        "name": "Google Play",
+        "url": "https://play.google.com/store/search?q={searchTerms}&c=apps&start=0&num=48&hl=it",
+        "category": "",
+        "description": "Cerca applicazioni Android su Google Play"
+      },
+	  "compra": {
+        "name": "Amazon",
+        "url": "https://www.amazon.it/s?k={searchTerms}&tag=gioxx-21",
+        "category": "",
+        "description": "Cerca prodotti da acquistare su Amazon.it"
+      },
+	  "img": {
+        "name": "Google Images",
+        "url": "https://google.com/search?tbm=isch&q={searchTerms}",
+        "category": "",
+        "description": "Cerca immagini con Google Images"
+      },
+	  "map": {
+        "name": "Google Maps",
+        "url": "https://www.google.it/maps/search/{searchTerms}",
+        "category": "",
+        "description": "Esplora il mondo con Google Maps"
+      },
+	  "traduci": {
+        "name": "Google Translate",
+        "url": "https://translate.google.com/?q={searchTerms}",
+        "category": "",
+        "description": "Traduci ciò che ti serve con Google Translate"
+      },
+	  "video": {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/results?search_type=search_videos&search_query={searchTerms}&search_sort=relevance&search_category=0&page=",
+        "category": "",
+        "description": "Cerca video su YouTube"
+      },
+	  "wen": {
+        "name": "Wikipedia (inglese)",
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={searchTerms}",
+        "category": "",
+        "description": "Cerca ciò che ti serve su Wikipedia in inglese"
+      },
+	  "wit": {
+        "name": "Wikipedia (italiano)",
+        "url": "https://it.wikipedia.org/w/index.php?title=Special:Search&search={searchTerms}",
+        "category": "",
+        "description": "Cerca ciò che ti serve su Wikipedia in italiano"
+      }
+    }
+  }
+}

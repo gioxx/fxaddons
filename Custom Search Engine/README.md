@@ -4,11 +4,11 @@
 - Vai nelle opzioni del componente aggiuntivo (su Firefox: [moz-extension://9737cf8e-2891-4035-b5c8-1658b566ad72/options.html](moz-extension://9737cf8e-2891-4035-b5c8-1658b566ad72/options.html) - su Chrome: [chrome-extension://kelahdmegihhooaelnaahkeggodajdjf/options.html](chrome-extension://kelahdmegihhooaelnaahkeggodajdjf/options.html))
 - Carica il file "engines.txt" di questo repository usando il pulsante "**Scegli file**" (accanto alla voce *Load From File*):
 
-![](https://raw.githubusercontent.com/gioxx/fxaddons/master/Custom%20Search%20Engine/Load-file.png)
+![Load File](https://raw.githubusercontent.com/gioxx/fxaddons/master/Custom%20Search%20Engine/Load-file.png)
 
 - Fai clic sul pulsante "**Load from File**" per confermare l'operazione e caricare tutti i motori di ricerca personalizzati:
 
-![](https://raw.githubusercontent.com/gioxx/fxaddons/master/Custom%20Search%20Engine/Load-from-file.png)
+![Load from file](https://raw.githubusercontent.com/gioxx/fxaddons/master/Custom%20Search%20Engine/Load-from-file.png)
 
 - Fai clic sul pulsante "**Save Preferences**" per completare l'operazione.
 

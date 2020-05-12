@@ -2,7 +2,7 @@
 
 - Installa il componente aggiuntivo "**Custom Search Engine**" per [Mozilla Firefox](https://addons.mozilla.org/it/firefox/addon/custom-search-engine/) o [Google Chrome](https://chrome.google.com/webstore/detail/custom-search-engine/kelahdmegihhooaelnaahkeggodajdjf?hl=it).
 - Vai nelle opzioni del componente aggiuntivo (su Firefox: [moz-extension://9737cf8e-2891-4035-b5c8-1658b566ad72/options.html](moz-extension://9737cf8e-2891-4035-b5c8-1658b566ad72/options.html) - su Chrome: [chrome-extension://kelahdmegihhooaelnaahkeggodajdjf/options.html](chrome-extension://kelahdmegihhooaelnaahkeggodajdjf/options.html))
-- Carica il file "engines.txt" di questo repository usando il pulsante "**Scegli file**" (accanto alla voce *Load From File*):
+- Carica il file "[**engines.txt**](https://raw.githubusercontent.com/gioxx/fxaddons/master/Custom%20Search%20Engine/engines.txt)" di questo repository usando il pulsante "**Scegli file**" (accanto alla voce *Load From File*):
 
 ![](https://raw.githubusercontent.com/gioxx/fxaddons/master/Custom%20Search%20Engine/Load-file.png)
 

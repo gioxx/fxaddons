@@ -36,7 +36,7 @@
         "https://thecreative.cafe/*",
         "https://towardsdatascience.com/*",
         "https://uxdesign.cc/*",
-        "https://writingcooperative.com"
+        "https://writingcooperative.com/*"
       ],
       "js": ["main.bundle.js"]
     }
@@ -72,7 +72,7 @@
     "https://thecreative.cafe/*",
     "https://towardsdatascience.com/*",
     "https://uxdesign.cc/*",
-    "https://writingcooperative.com"
+    "https://writingcooperative.com/*"
   ],
   "web_accessible_resources": ["static/*"]
 }

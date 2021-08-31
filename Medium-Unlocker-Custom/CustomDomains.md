@@ -3,6 +3,7 @@
 ```bash
 "https://*.medium.com/*",
 "https://betterhumans.coach.me/*",
+"https://betterprogramming.pub/",
 "https://blog.angularindepth.com/*",
 "https://blog.prototypr.io/*",
 "https://blog.usejournal.com/*",

@@ -2,7 +2,7 @@
   "name": "Medium Unlocker Custom",
   "description": "Unlocks medium.com for unlimited reads, no membership required (Custom version of Medium Unlimited by Manoj Vivek with some other domains added).",
   "short_name": "Medium Unlocker",
-  "version": "1.4.15",
+  "version": "1.4.16",
   "manifest_version": 2,
   "background": {
     "scripts": ["background.bundle.js"]
@@ -16,6 +16,7 @@
       "matches": [
         "https://*.medium.com/*",
         "https://betterhumans.coach.me/*",
+        "https://betterprogramming.pub/*",
         "https://blog.angularindepth.com/*",
         "https://blog.prototypr.io/*",
         "https://blog.usejournal.com/*",
@@ -52,6 +53,7 @@
     "webRequestBlocking",
     "https://*.medium.com/*",
     "https://betterhumans.coach.me/*",
+    "https://betterprogramming.pub/*",
     "https://blog.angularindepth.com/*",
     "https://blog.prototypr.io/*",
     "https://blog.usejournal.com/*",
